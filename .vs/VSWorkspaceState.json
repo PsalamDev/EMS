@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EMS.Application",
+    "\\EMS.Application\\Interface",
+    "\\EMS.Application\\Interface\\Service",
+    "\\EMS.Application\\Service",
+    "\\EMS.Persistence",
+    "\\EMS.Persistence\\Context",
+    "\\EMS.Persistence\\Repository"
+  ],
+  "SelectedNode": "\\EMS.Persistence\\Repository\\RepositoryAsync.cs",
+  "PreviewInSolutionExplorer": false
+}

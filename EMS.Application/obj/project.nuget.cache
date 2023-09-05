@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vK/LmLU8A91gseoBUN1MAXuIwA1QtJYC9W5xc7p+xxclAfUBcvrDsSADZ84+x9cbwxi1U7pKsvlD4OBKE60kiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abdul-Salam\\Documents\\Projects\\EMS\\EMS.Application\\EMS.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abdul-Salam\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

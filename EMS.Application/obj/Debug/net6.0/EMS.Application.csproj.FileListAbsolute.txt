@@ -1,0 +1,15 @@
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Application\bin\Debug\net6.0\EMS.Application.deps.json
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Application\bin\Debug\net6.0\EMS.Application.dll
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Application\bin\Debug\net6.0\EMS.Application.pdb
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Application\bin\Debug\net6.0\EMS.Domain.dll
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Application\bin\Debug\net6.0\EMS.Domain.pdb
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Application\obj\Debug\net6.0\EMS.Application.csproj.AssemblyReference.cache
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Application\obj\Debug\net6.0\EMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Application\obj\Debug\net6.0\EMS.Application.AssemblyInfoInputs.cache
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Application\obj\Debug\net6.0\EMS.Application.AssemblyInfo.cs
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Application\obj\Debug\net6.0\EMS.Application.csproj.CoreCompileInputs.cache
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Application\obj\Debug\net6.0\EMS.Application.csproj.CopyComplete
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Application\obj\Debug\net6.0\EMS.Application.dll
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Application\obj\Debug\net6.0\refint\EMS.Application.dll
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Application\obj\Debug\net6.0\EMS.Application.pdb
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Application\obj\Debug\net6.0\ref\EMS.Application.dll

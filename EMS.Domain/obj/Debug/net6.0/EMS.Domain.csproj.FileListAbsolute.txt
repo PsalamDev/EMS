@@ -1,0 +1,12 @@
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Domain\bin\Debug\net6.0\EMS.Domain.deps.json
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Domain\bin\Debug\net6.0\EMS.Domain.dll
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Domain\bin\Debug\net6.0\EMS.Domain.pdb
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Domain\obj\Debug\net6.0\EMS.Domain.csproj.AssemblyReference.cache
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Domain\obj\Debug\net6.0\EMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Domain\obj\Debug\net6.0\EMS.Domain.AssemblyInfoInputs.cache
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Domain\obj\Debug\net6.0\EMS.Domain.AssemblyInfo.cs
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Domain\obj\Debug\net6.0\EMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Domain\obj\Debug\net6.0\EMS.Domain.dll
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Domain\obj\Debug\net6.0\refint\EMS.Domain.dll
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Domain\obj\Debug\net6.0\EMS.Domain.pdb
+C:\Users\Abdul-Salam\Documents\Projects\EMS\EMS.Domain\obj\Debug\net6.0\ref\EMS.Domain.dll
